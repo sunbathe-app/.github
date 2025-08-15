@@ -5,5 +5,5 @@ Sunbathe is a mobile app with daily reminders for your natural vitamin D dose, t
 
 ---
 
-Made with love Julia ([Twitter](https://twitter.com/juliaalvarez23), [Webpage](https://juliaalvarez.io/)).
+Made with love by Julia ([Twitter](https://twitter.com/juliaalvarez23), [Webpage](https://juliaalvarez.io/)).
 Original UI by Alberto ([Twitter](https://twitter.com/albertogalca), [Webpage](https://albertogalca.com/)).
